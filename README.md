@@ -22,3 +22,5 @@ A Python-based full-stack application that automates Instagram post creation by 
 ---
 
 ## 📷 Screenshots
+### Indexpage:
+![Indexpage](https://github.com/S-Gauri-23/Automatic-Post-Maker/blob/master/Screenshots/NewsPost.JPG)
